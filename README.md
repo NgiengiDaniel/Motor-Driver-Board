@@ -53,5 +53,6 @@ void loop()
   delay( 1000 );
 
 ```
-
+## Shiftout Layout
+![alt text](./Images/Shiftout_layout.png)
 
